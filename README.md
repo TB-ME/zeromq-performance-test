@@ -14,8 +14,8 @@ data size: 10
 `
 ### Golang
 `
-	Time took: 0.003064
-	Time took: 0.030694
-	Time took: 0.350314
-	Time took: 3.965892
+Time took: 0.003064
+Time took: 0.030694
+Time took: 0.350314
+Time took: 3.965892
 `
