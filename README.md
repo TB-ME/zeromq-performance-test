@@ -13,7 +13,7 @@ data size: 10
 - Time took: 6.925920724868774
 
 ### Golang
-Avg Improvement: ~47.8%
+Avg Improvement: ~2x
 - Time took: 0.003064
 - Time took: 0.030694
 - Time took: 0.350314
